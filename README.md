@@ -1,7 +1,7 @@
 # Hello, I'm Dalian Aguirre 👋
 ## 👩🏽‍💻***Business administrator & fullstack developer***
 
-I am a **business administrator** from **Colombia**. I am also a **fullstack javascript developer** with knowledge in:
+I am a **business administrator** from **Colombia**. I am also a **fullstack JavaScript developer** with knowledge in:
 - Git
 - HTML
 - CSS
