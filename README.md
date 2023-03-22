@@ -27,13 +27,13 @@ I am a professional in <strong>business administration</strong> from the Univers
 
 ***
 ### Some alias commands in my terminal:
-```
+
 |  Alias  |    Command   |
 |---------|--------------|
 |  cl     | 'clear'      |
 |  gst    | 'git status' |
 |  grm    | 'git remove' |
-```
+
 
 
 
