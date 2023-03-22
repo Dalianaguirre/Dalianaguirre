@@ -1,7 +1,10 @@
-# Hello, I'm Dalian Aguirre 👋
-## 👩🏻‍💻***Business administrator & fullstack developer***
 
-I am a **business administrator** from **Colombia**. I am also a **fullstack JavaScript developer** with knowledge in:
+# Hello👋🏻, I'm Dalian Aguirre
+## 👩🏽‍💻***Business administrator & fullstack developer***
+
+I am a professional in <strong>business administration</strong> from the University of Cauca in <strong>Colombia</strong>. I consider myself curious about new technologies. I am a self-taught, enterprising and above all proactive person. My interest in programming was born when I had the need to create a website for a business. Since then I have not stopped learning and dreaming in this dev world.
+
+### 🛠***Technologies***
 - Git
 - HTML
 - CSS
@@ -11,7 +14,8 @@ I am a **business administrator** from **Colombia**. I am also a **fullstack Jav
 - Express
 - React & Redux
 
-### The commands I use the most are:
+***
+### Some commands:
 | Command |           Description            |
 |---------|----------------------------------|
 |  cl     | Clean terminal                   |
@@ -21,11 +25,14 @@ I am a **business administrator** from **Colombia**. I am also a **fullstack Jav
 |  pwd    | Print my directory location      |
 |  alias  | List aliases                     |
 
-### These are my most used aliases in my terminal
+***
+### Some alias commands in my terminal:
 ```
-gst='git status'
-cl='clear'
-grm='git remove'
+|  Alias  |    Command   |
+|---------|--------------|
+|  cl     | 'clear'      |
+|  gst    | 'git status' |
+|  grm    | 'git remove' |
 ```
 
 
